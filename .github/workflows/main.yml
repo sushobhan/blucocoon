@@ -40,4 +40,4 @@ jobs:
           server: ftp.skillsprocess.com
           username: skillspr
           password: Ubr5iB1c72
-          server-dir: /public_html/graph
+          server-dir: /public_html/graph/
