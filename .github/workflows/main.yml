@@ -50,4 +50,4 @@ jobs:
           username: skillspr
           password: Ubr5iB1c72
           server-dir: /public_html/graph/
-          local-dir: /dist/bluecocoon
+          local-dir: /dist/bluecocoon/
